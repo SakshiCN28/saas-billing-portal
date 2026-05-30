@@ -77,4 +77,4 @@ npm start
 
 
 ## 🙌 Author
-👩‍💻 Sakshi Nagaraj
+👩‍💻 Sakshi Nagaraj.
